@@ -7,9 +7,3 @@
       * [Sample Analytical Assessment B](SampleB.md)
       * [Inventory of Existing Fellowships](FellowInvent.md)
 
-###Coming Soon
-* Finding Talent
-*    * Core Competencies
-* Keeping Talent
-* Building Effective Teams
-* Sources
