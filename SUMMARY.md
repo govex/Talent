@@ -8,12 +8,8 @@
       * [Inventory of Existing Fellowships](FellowInvent.md)
 
 ###Coming Soon
-* [Finding Talent](XXXXX.md)
-*    * [Core Competencies](YYYYYY.md)
-* [Keeping Talent](ZZZZZZ.md)
-* [Building Effective Teams](AAAAAA.md)
-   * [Structure](BBBBBBB.md)
-   * [Process](CCCCCCC.md)
-   * [Focus](DDDDDDDD.md)
-   * [Communication](EEEEEEE.md)
-* [Sources](Sources.md)
+* Finding Talent
+*    * Core Competencies
+* Keeping Talent
+* Building Effective Teams
+* Sources
