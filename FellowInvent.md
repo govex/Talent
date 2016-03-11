@@ -9,6 +9,7 @@
 * [Washington, DC: Capital City Fellows Program](http://dchr.dc.gov/page/capital-city-fellows-program)
 
 ###Local
+* [Kansas City, MO: Cookingham-Noll Fellowship](http://kcmo.gov/citymanagersoffice/cookingham-noll-fellowship/)
 * [ICMA: Management Talent Exchange Programs](http://icma.org/en/icma/career_network/career_development/talent_exchange)
 * [ICMA: Local Government Management Fellowship](http://icma.org/en/icma/career_network/career_development/lgmf_fellows)
 * [Wichita, KS: Management Fellowship Program](http://www.wichita.gov/Government/Departments/CMO/Pages/Fellowship.aspx)
