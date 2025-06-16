@@ -19,11 +19,11 @@ You may find that there are people with an interest or aptitude for what you nee
 
 If you want to get a sense for who would be interested in doing data work, there are a few ways to gauge interest.
 
-* **An online survey:** You can use free tools like SurveyMonkey and Typeform, emailed to everyone you think might be interested. Ask about level of interest, time they’re willing to commit, and previous experience with data. Make sure to collect their email addresses. This is probably the simplest and most expeditious way to gauge interest, but beware that you have have trouble getting responses to _any_ online survey. A little incentive for completing a survey doesn’t hurt.
+* **An online survey:** You can use free tools like SurveyMonkey and Typeform, emailed to everyone you think might be interested. Ask about level of interest, time they’re willing to commit, and previous experience with data. Make sure to collect their email addresses. This is probably the simplest and most expeditious way to gauge interest, but beware that you may have trouble getting responses to _any_ online survey. A little incentive for completing a survey doesn’t hurt.
 * **Lunch and learn:** Nothing fancy here -- all you have to do is find a space. Invite your organization to hear a quick talk about data and how you’re hoping to use it during lunch. Try an [Ignite](http://www.ignitetalks.io/) format -- 5 minutes, 20 slides -- and leave the rest of the time open for conversation. As with the survey, collect email addresses! Free food is always good incentive, but if you can’t swing that, remind participants to bring their own.
 * **Start small and call for volunteers.** If you have a small, non-mission-critical data project, see who responds to a call for volunteers to work on it. You might also consider encouraging people in your organization to go to a local civic hack night. [Find one here.](https://www.codeforamerica.org/brigade/)
 
-\###**Externally**
+**Externally**
 
 Break the mold! Don’t go looking for new government staff at public policy schools. If you want to hire tech and data specialists to do work beyond standard analysis, check out these other places where people learn how to use data and build tools:
 
