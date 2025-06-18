@@ -15,9 +15,9 @@ State
 Local
 
 * [Kansas City, MO: Cookingham-Noll Fellowship](https://www.kcmo.gov/city-hall/departments/city-manager-s-office/cookingham-noll-management-fellowship)
-* [ICMA: Management Talent Exchange Programs](http://icma.org/en/icma/career_network/career_development/talent_exchange)
-* [ICMA: Local Government Management Fellowship](http://icma.org/en/icma/career_network/career_development/lgmf_fellows)
-* [Wichita, KS: Management Fellowship Program](http://www.wichita.gov/Government/Departments/CMO/Pages/Fellowship.aspx)
+* [ICMA: Management Talent Exchange Programs](https://icma.org/management-talent-exchange-programs)
+* [ICMA: Local Government Management Fellowship](https://icma.org/page/local-government-management-fellowship)
+* [Wichita, KS: Management Fellowship Program](https://www.governmentjobs.com/careers/wichita/jobs/newprint/2994680)
 * [Long Beach, CA: Management Assistant Program](http://www.longbeach.gov/jobs/media-library/documents/management-assistant-program-brochure/)
 * [Tacoma, WA: Tacoma Management Fellowship](https://www.cityoftacoma.org/government/city_departments/City_Managers_Office/management_fellowship)
 * [San Antonio, TX: Management Fellows Program](http://www.sanantonio.gov/hr/CareerCenter.aspx#13706901-management-fellows)
