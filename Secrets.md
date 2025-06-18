@@ -63,11 +63,11 @@ Seven: Maintain a Relationship
 
 One of the main reasons Baltimore promoted analysts into program management jobs when their tour with the Mayor’s Citistat ended is because it helps drive the practices into the organization while simultaneously installing feedback loops between executive offices and programs. Those feedback loops can provide a valuable ground truth to executive decision makers as they strive to make lasting impacts on programs and outcomes. But feedback loops only exist through relationships, and relationships require nurturing and support.
 
-Consider creating an alumni network of past fellows who stay connected and communicate honestly about the reality of post-fellowship life in the programs. As their work on the front lines shapes the way business gets done, it also informs leadership about cultural dynamics, opportunities for improvement, and resistance to change. Alumni of the Presidential Management Fellowship program [created a group](http://www.pmag.org/) focused on continuously improving the program and supporting current and former fellows.
+Consider creating an alumni network of past fellows who stay connected and communicate honestly about the reality of post-fellowship life in the programs. As their work on the front lines shapes the way business gets done, it also informs leadership about cultural dynamics, opportunities for improvement, and resistance to change. Alumni of the Presidential Management Fellowship program [created a group](https://www.presidentialmanagementalumniassociation.org/vision) focused on continuously improving the program and supporting current and former fellows.
 
 Former fellows are the ambassadors of analytics in the organization, and people look to them for insights about “what it’s really like” in the box seats. So make sure to maintain a positive and supportive relationship with them. By building a lasting bond of trust with each fellow, strong relationships will flourish and the enterprise will reap benefits for years to come.
 
-\###Eight: Celebrate Their Successes
+Eight: Celebrate Their Successes
 
 Data isn’t the hero, the people who use it are. So find ways to celebrate their professional (and personal successes) from the moment they walk in the door and never stop making them feel appreciated. Celebrate their birthdays. Ask about their families, and celebrate major life milestones with them (having a child, buying a house, kid’s graduation, years of service). People want to matter, and you should make every fellow feel like they matter to you.
 
