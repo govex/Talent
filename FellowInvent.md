@@ -5,14 +5,14 @@ Inventory of Existing Fellowship Programs
 Federal
 
 * [US Presidential Management Fellows (PMF)](https://www.pmf.gov/the-opportunity/pmf-as-a-pathway/)
-* [Johns Hopkins University Applied Physics Laboratory (APL) Government Employee Fellowship Program](http://www.jhuapl.edu/ourwork/fellows/default.asp)
+* [Johns Hopkins University Applied Physics Laboratory (APL) Government Employee Fellowship Program](https://www.jhuapl.edu/work/partnerships/government-employee-fellowship-program)
 * [FEMASTAT Fellowship](https://www.fema.gov/enterprise-analytics-division)
 
-\###State
+State
 
 * [Washington, DC: Capital City Fellows Program](http://dchr.dc.gov/page/capital-city-fellows-program)
 
-\###Local
+Local
 
 * [Kansas City, MO: Cookingham-Noll Fellowship](http://kcmo.gov/citymanagersoffice/cookingham-noll-fellowship/)
 * [ICMA: Management Talent Exchange Programs](http://icma.org/en/icma/career_network/career_development/talent_exchange)
