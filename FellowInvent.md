@@ -14,7 +14,7 @@ State
 
 Local
 
-* [Kansas City, MO: Cookingham-Noll Fellowship](http://kcmo.gov/citymanagersoffice/cookingham-noll-fellowship/)
+* [Kansas City, MO: Cookingham-Noll Fellowship](https://www.kcmo.gov/city-hall/departments/city-manager-s-office/cookingham-noll-management-fellowship)
 * [ICMA: Management Talent Exchange Programs](http://icma.org/en/icma/career_network/career_development/talent_exchange)
 * [ICMA: Local Government Management Fellowship](http://icma.org/en/icma/career_network/career_development/lgmf_fellows)
 * [Wichita, KS: Management Fellowship Program](http://www.wichita.gov/Government/Departments/CMO/Pages/Fellowship.aspx)
