@@ -19,29 +19,29 @@ Most people can’t do all of these well, but your screening process should test
 * **STEP 2:** Candidate gives an in-person presentation of slides, explaining his or her findings (and methodology) and choices about what he or she included in the memo
 * **STEP 3:** Interviewer(s) asks the candidate probing questions about his or her analysis and memo
 
-\###Two: Keep Them Longer Than Three Months
+Two: Keep Them Longer Than Three Months
 
 Everyone has a learning curve. So plan for spending about three months getting a new analyst up to speed on the methods, subjects, players, and issues in your organization; because they are likely different from the analyst’s home organization. If the engagement is too short, the analysts will never quite hit her stride and feel confident in her contributions. Everyone needs time to settle in, practice, make a few mistakes, and adapt before his or her contribution is firing on all cylinders.
 
-\###Three: Make Them Work Outside Their Comfort Zone
+Three: Make Them Work Outside Their Comfort Zone
 
 Human beings often want two contradictory things in their jobs: They want to feel confident that their contributions matter, and they want to feel challenged by learning new things. As you manage an analytics fellowship, the fastest route to delivering the former is to assign analysts to subjects they already know a lot about. But resist the urge to have the fire department analyst work on public safety issues. Instead, focus on exposing them to new issues and ideas. They will benefit by gaining exposure to people and issues they never normally work on, and the enterprise will benefit from having a fresh eyes on its data. So make the public safety analyst work on human services. Make the human services analyst work on public works, and make the public works analyst work on affordable housing. By cross-pollinating the talent across issues, everyone wins, and the fellows will quickly gain confidence in applying their skills to a wider range of issues.
 
-\###Four: Give Them Appreciative Feedback
+Four: Give Them Appreciative Feedback
 
 Giving constructive feedback is hard for both the giver and the receiver. Most people do not enjoy telling others about their shortcomings and even fewer like hearing them. However, feedback should never be about immutable characteristics. In other words, it’s not about telling an inherently pessimistic person that they are too negative. Instead, think of feedback as an opportunity to help someone optimize his strengths to mitigate his weaknesses. One of the best ways to practice is called appreciative inquiry.
 
-Appreciative inquiry is very simple. Start by saying something you appreciate about what the analyst has done. Then ask them a question about something that strikes you as a potential opportunity for improvement. For example, if the analysts failed to investigate an obvious outlier in the dataset, don’t attack them by saying “why did you ignore this outlier?” Instead, ask them if they considered exploring the reasons for the outlier.
+Appreciative inquiry is very simple. Start by saying something you appreciate about what the analyst has done. Then ask them a question about something that strikes you as a potential opportunity for improvement. For example, if the analysts failed to investigate an obvious outlier in the dataset, don’t attack them by saying “why did you ignore this outlier?”. Instead, ask them if they considered exploring the reasons for the outlier.
 
 There is real science behind appreciative inquiry, because the act of telling something you appreciate about them disarms their amygdala response, causing people to be less defensive when you then suggest a potential area of further exploration.
 
-\###Five: Kick Them Out After Six Months
+Five: Kick Them Out After Six Months
 
-A fellowship wouldn’t be a fellowship if it lasted forever, and six months is the upper limit of what most offices can maintain. First, you’ve probably snagged top talent and the fellow’s home office is likely missing them. Not many managers can live without their best and brightest for too long. Second, the whole point is to get them back out to the programs to fertilize these capabilities across the enterprise. If you hoard the talent for too long, no one else benefits, including you. Once a fellow has returned to her home office, you now have a stronger partner in that program to leverage. It may seem counterintuitive, but if you love something . . . let it go.
+A fellowship wouldn’t be a fellowship if it lasted forever, and six months is the upper limit of what most offices can maintain. First, you’ve probably snagged top talent and the fellow’s home office is likely missing them. Not many managers can live without their best and brightest for too long. Second, the whole point is to get them back out to the programs to fertilize these capabilities across the enterprise. If you hoard the talent for too long, no one else benefits, including you. Once a fellow has returned to their home office, you now have a stronger partner in that program to leverage. It may seem counterintuitive, but if you love something . . . let it go.
 
-\###Six: Ask Them for Feedback
+Six: Ask Them for Feedback
 
-Feedback is a two-way street, and every fellowship program can benefit from some self-reflection. Self-reflection should occur at (at least) three different times during the life of the fellow. During the fellowship, managers should check in with the analysts on how their experience is going so it can be adjusted mid-flight.
+Feedback is a two-way street, and every fellowship program can benefit from some self-reflection. Self-reflection should occur at (at least) three different times during the life of the fellow. During the fellowship, managers should check in with the analysts on how their experience is going, so it can be adjusted mid-flight.
 
 At the conclusion of the fellowship, fellows should complete a user-friendly survey to express how they felt about the experience overall and what recommendations they have for improvement. After the fellowship, managers should check-in with the analysts on whether the fellowship is having an effect (positive or negative) on their professional growth and experiences. To get you started, here are some questions to consider asking:
 
@@ -59,7 +59,7 @@ At the conclusion of the fellowship, fellows should complete a user-friendly sur
 * What are the top three changes you would make to the fellowship program to make it more valuable?
 * How likely are you to recommend this fellowship to other employees?
 
-\###Seven: Maintain a Relationship
+Seven: Maintain a Relationship
 
 One of the main reasons Baltimore promoted analysts into program management jobs when their tour with the Mayor’s Citistat ended is because it helps drive the practices into the organization while simultaneously installing feedback loops between executive offices and programs. Those feedback loops can provide a valuable ground truth to executive decision makers as they strive to make lasting impacts on programs and outcomes. But feedback loops only exist through relationships, and relationships require nurturing and support.
 
