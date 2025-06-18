@@ -75,7 +75,7 @@ As they complete analytical projects, give them credit for their work and highli
 
 Even after they leave, communicate future successes (promotions, big projects, etc.) to the alumni network. Make it clear that you care about their career advancement, not just their career as it relates to your work. As you celebrate them publicly, invite others to submit stories or milestones they are proud of. There are countless people working tirelessly in the shadows who deserve recognition, so use your position to elevate theirs.
 
-\###Nine: Keep Them Out of the Pigeonhole
+Nine: Keep Them Out of the Pigeonhole
 
 One of the biggest dangers in doing an analytics fellowship is that you get pigeonholed as “the analyst” or “the Stat guy.” The home organization treats the fellow like their highest valued use is to be the liaison between the program and the mayor’s office. One fellowship program tried to mitigate this by writing language similar to the following into the Memorandum of Agreement with the program offices:
 
