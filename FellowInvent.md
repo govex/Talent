@@ -18,6 +18,6 @@ Local
 * [ICMA: Management Talent Exchange Programs](https://icma.org/management-talent-exchange-programs)
 * [ICMA: Local Government Management Fellowship](https://icma.org/page/local-government-management-fellowship)
 * [Wichita, KS: Management Fellowship Program](https://www.governmentjobs.com/careers/wichita/jobs/newprint/2994680)
-* [Long Beach, CA: Management Assistant Program](http://www.longbeach.gov/jobs/media-library/documents/management-assistant-program-brochure/)
-* [Tacoma, WA: Tacoma Management Fellowship](https://www.cityoftacoma.org/government/city_departments/City_Managers_Office/management_fellowship)
-* [San Antonio, TX: Management Fellows Program](http://www.sanantonio.gov/hr/CareerCenter.aspx#13706901-management-fellows)
+* [Long Beach, CA: Management Assistant Program](https://www.longbeach.gov/jobs/map/management-assistant-program/)
+* [Tacoma, WA: Tacoma Management Fellowship](https://www.governmentjobs.com/careers/tacoma/jobs/newprint/3224927)
+
