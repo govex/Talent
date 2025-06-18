@@ -77,13 +77,13 @@ Even after they leave, communicate future successes (promotions, big projects, e
 
 Nine: Keep Them Out of the Pigeonhole
 
-One of the biggest dangers in doing an analytics fellowship is that you get pigeonholed as “the analyst” or “the Stat guy.” The home organization treats the fellow like their highest valued use is to be the liaison between the program and the mayor’s office. One fellowship program tried to mitigate this by writing language similar to the following into the Memorandum of Agreement with the program offices:
+One of the biggest dangers in doing an analytics fellowship is that you get pigeonholed as “the analyst” or “the Stat guy.” The home organization treats the fellow like their highest valued use is to be the liaison between the program and the mayor’s office. One fellowship program tried to mitigate this by writing language similar to the following into the Memorandum of Agreement (MOA) with the program offices:
 
 > At the conclusion of the fellowship, the program agrees to assign the fellow a workload that does not involve direct interaction with the STAT Fellowship program as a primary responsibility. Instead, the program agrees to make every effort to expand the fellow’s breadth of experiences to foster continuous professional growth.
 
 Putting explicit language in an MOA is not necessary, but it useful to spell out the expectations up front, so everyone involved is clear that this is ultimately about the development of talent within the organization.
 
-\###Ten: Share Beyond Your Borders
+Ten: Share Beyond Your Borders
 
 Finally, consider creating a fellowship that extends beyond the bounds of your organization. The most iconic fellowship program – the federal government’s [Presidential Management Fellowship](https://www.pmf.gov/opportunity/index.aspx) – advertises itself as an opportunity to leap from one organization to another:
 
